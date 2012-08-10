@@ -33,7 +33,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
 	//there are two methods for characters : strlen() 
 	//and mb_strlen() which is better to use cause it will support all languages
 	//to validate the message
-	if (mb_strlen($notes) < 5 || mb_strlen($notes) > 200 ){
+	if (empty($notes)) {
 		$errors['notes'] = true;
 	}
 	
