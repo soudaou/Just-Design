@@ -10,6 +10,7 @@ include 'includes/wrapper-top.php';
 ?>
 	<?php if ($thanks) : ?>
 	<strong>Thank you for your message.</strong>
+	<strong><a href="index.php">Back to Home</a></strong>
 	<?php else : ?>
 	
 	<div id="content" role="main" id="main">
