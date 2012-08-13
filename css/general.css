@@ -43,6 +43,7 @@ body{
 }
 .logo{
 /*	position:absolute;*/
+	border:none;
 	width:20%;
 	float:left;
 }
@@ -195,6 +196,7 @@ footer{
 	float:left;
 }
 .media-link{
+	border:none;
 	padding-right:1em;
 	float:left;
 }
