@@ -115,7 +115,8 @@ nav a:active{
 /*****Latest work*****/
 #latest-work {
 	margin-left: 17em;
-	margin-top: 4.5em;
+	/*margin-top: 4.5em;*/
+	margin-top:7em;
 }
 #latest-work h1{
 	margin:0;
@@ -131,7 +132,8 @@ h1{
 	margin:0;
 	padding:0;
 	width:488.3px;
-	height:373px;
+	height:326px;
+	/*height:373px;*/
 	overflow: hidden;
 	border: 1px solid #FF4F00;
 }
@@ -301,12 +303,12 @@ footer{
 }
 
 #contact-form {
-	margin-left: 17em;
-	margin-top: 6em;
+    margin-left: 20em;
+    margin-top: 6em;
 }
-#contact-form h1{
-	margin:0;
-	width:60%;
+#contact-form h1 {
+    margin: 0;
+    width: 60%;
 }
 form {
 	color:#FF4F00;
