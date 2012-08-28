@@ -18,8 +18,8 @@ include 'includes/wrapper-top.php';
 				Souad Daou.
 				I’m a multimedia 
 				designer focusing 
-				on web design & 
-				developer and animation.
+				on web design
+				and motion graphics.
 				</p>
 			</div>
 			<div class="slogan">
