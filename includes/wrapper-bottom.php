@@ -8,7 +8,7 @@
 						<a href="https://www.facebook.com/souad.daou?ref=tn_tnmn"> <img src="images/social-media/facebook.png" alt=""></a>
 					</div>
 					<div class="media-link">
-						<a href=""> <img src="images/social-media/linkedin.png" alt=""></a>
+						<a href="http://ca.linkedin.com/pub/souad-daou/16/4a5/2b3"> <img src="images/social-media/linkedin.png" alt=""></a>
 					</div>
 
 				</div>
