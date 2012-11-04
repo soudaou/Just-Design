@@ -18,7 +18,7 @@ include 'includes/wrapper-top.php';
 		<div id="sidepanel">
 			<div class="contact-info">
 				<h2>Contact me:</h2>
-				<p>T: (613)6171986</p>
+				<p>T: (514)512-7344</p>
 				<p>E: souaddaou@gmail.com</p>
 				
 			</div>
